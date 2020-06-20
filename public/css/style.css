@@ -1,0 +1,9 @@
+.login-container {
+  width: 30vw;
+  margin-top: 8vh;
+  text-align: center;
+}
+
+p {
+  margin: 10px 0 !important;
+}
